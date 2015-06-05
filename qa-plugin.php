@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Overrides all standard Q2A pages
 	Plugin URI: 
-	Plugin Description: Provides a list of users with more points  for QA
+	Plugin Description: Overrides all standard Q2A pages for QA
 	Plugin Version: 1.0.0
 	Plugin Date: 2015-04-01
 	Plugin Author: gg.edu.vn
