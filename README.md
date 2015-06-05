@@ -48,7 +48,7 @@ Referent:
 
 [3]https://github.com/hscale/Plugin-Q2A-Overrides-all-standard-pages-by
 
-[4]https://github.com/hscale/Plugin-Q2A-Overrides-all-standard-pages-by/archive/master.zip
+[4]https://github.com/hscale/Plugin-Q2A-Overrides-all-standard-pages/releases
 
 [5]http://gg.edu.vn/plugin-q2a-overrides-all-standard-q2a-pages/
 
