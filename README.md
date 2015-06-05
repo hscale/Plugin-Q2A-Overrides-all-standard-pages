@@ -46,7 +46,7 @@ Referent:
 
 [2]question2answer-1.7\qa-include\qa-page.php
 
-[3]https://github.com/hscale/Plugin-Q2A-Overrides-all-standard-pages-by
+[3]https://github.com/hscale/Plugin-Q2A-Overrides-all-standard-pages/
 
 [4]https://github.com/hscale/Plugin-Q2A-Overrides-all-standard-pages/releases
 
