@@ -1,0 +1,56 @@
+<?php
+ 
+function qa_page_routing()
+{
+	
+    $pages = array(
+			'account' => '../qa-plugin/override-pages/pages/account.php',
+			'activity/' => '../qa-plugin/override-pages/pages/activity.php',
+			'admin/' => '../qa-plugin/override-pages/pages/admin/admin-default.php',
+			'admin/approve' => '../qa-plugin/override-pages/pages/admin/admin-approve.php',
+			'admin/categories' => '../qa-plugin/override-pages/pages/admin/admin-categories.php',
+			'admin/flagged' => '../qa-plugin/override-pages/pages/admin/admin-flagged.php',
+			'admin/hidden' => '../qa-plugin/override-pages/pages/admin/admin-hidden.php',
+			'admin/layoutwidgets' => '../qa-plugin/override-pages/pages/admin/admin-widgets.php',
+			'admin/moderate' => '../qa-plugin/override-pages/pages/admin/admin-moderate.php',
+			'admin/pages' => '../qa-plugin/override-pages/pages/admin/admin-pages.php',
+			'admin/plugins' => '../qa-plugin/override-pages/pages/admin/admin-plugins.php',
+			'admin/points' => '../qa-plugin/override-pages/pages/admin/admin-points.php',
+			'admin/recalc' => '../qa-plugin/override-pages/pages/admin/admin-recalc.php',
+			'admin/stats' => '../qa-plugin/override-pages/pages/admin/admin-stats.php',
+			'admin/userfields' => '../qa-plugin/override-pages/pages/admin/admin-userfields.php',
+			'admin/usertitles' => '../qa-plugin/override-pages/pages/admin/admin-usertitles.php',
+			'answers/' => '../qa-plugin/override-pages/pages/answers.php',
+			'ask' => '../qa-plugin/override-pages/pages/ask.php',
+			'categories/' => '../qa-plugin/override-pages/pages/categories.php',
+			'comments/' => '../qa-plugin/override-pages/pages/comments.php',
+			'confirm' => '../qa-plugin/override-pages/pages/confirm.php',
+			'favorites' => '../qa-plugin/override-pages/pages/favorites.php',
+			'favorites/questions' => '../qa-plugin/override-pages/pages/favorites-list.php',
+			'favorites/users' => '../qa-plugin/override-pages/pages/favorites-list.php',
+			'favorites/tags' => '../qa-plugin/override-pages/pages/favorites-list.php',
+			'feedback' => '../qa-plugin/override-pages/pages/feedback.php',
+			'forgot' => '../qa-plugin/override-pages/pages/forgot.php',
+			'hot/' => '../qa-plugin/override-pages/pages/hot.php',
+			'ip/' => '../qa-plugin/override-pages/pages/ip.php',
+			'login' => '../qa-plugin/override-pages/pages/login.php',
+			'logout' => '../qa-plugin/override-pages/pages/logout.php',
+			'messages/' => '../qa-plugin/override-pages/pages/messages.php',
+			'message/' => '../qa-plugin/override-pages/pages/message.php',
+			'questions/' => '../qa-plugin/override-pages/pages/questions.php',
+			'register' => '../qa-plugin/override-pages/pages/register.php',
+			'reset' => '../qa-plugin/override-pages/pages/reset.php',
+			'search' => '../qa-plugin/override-pages/pages/search.php',
+			'tag/' => '../qa-plugin/override-pages/pages/tag.php',
+			'tags' => '../qa-plugin/override-pages/pages/tags.php',
+			'unanswered/' => '../qa-plugin/override-pages/pages/unanswered.php',
+			'unsubscribe' => '../qa-plugin/override-pages/pages/unsubscribe.php',
+			'updates' => '../qa-plugin/override-pages/pages/updates.php',
+			'user/' => '../qa-plugin/override-pages/pages/user.php',
+			'users' => '../qa-plugin/override-pages/pages/users.php',
+			'users/blocked' => '../qa-plugin/override-pages/pages/users-blocked.php',
+			'users/special' => '../qa-plugin/override-pages/pages/users-special.php',
+		);	
+    return $pages;
+}
+?>
